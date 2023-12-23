@@ -1,0 +1,49 @@
+{
+  "version" : 1,
+  
+  "font_aliases" : [
+    {
+      "alias" : "SmoothFontLatin", 
+
+      "fonts" : [
+        {
+          "font_reference" : "UnicodeFont"
+        }
+      ]
+    },
+    {
+      "alias": "SmoothWithEmoticons",
+      "fonts": [
+        {
+          "font_reference": "UnicodeFont"
+        }
+      ]
+    },
+    {
+      "alias": "MinecraftTenEmoticon",
+      "fonts": [
+        {
+          "font_reference": "MinecraftTen"
+        },
+        {
+          "font_reference": "unicode",
+          "font_ranges": [
+            {
+              "first": 57344,
+              "last": 63743
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "alias": "SmoothSmall",
+      "font_scale_factor_override": 1,
+      "fonts": [
+        {
+          "font_reference": "UnicodeFont"
+        }
+      ]
+    }
+  ]    
+}

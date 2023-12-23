@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Unicodeフォント化",
+    "description": "フォントをUnicodeフォント化します\n言語 日本語がおすすめです\nby YuuhaLand",
+    "uuid": "e31608eb-4e1e-4695-948d-f3875ec72a3b",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "bbcbd54d-a6fb-4240-84ba-6e2b60d26b98",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
